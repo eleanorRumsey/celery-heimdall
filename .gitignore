@@ -5,3 +5,4 @@ poetry.lock
 *.pyc
 venv
 heimdall.db
+.DS_Store
